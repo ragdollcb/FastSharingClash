@@ -1,4 +1,4 @@
-FastSharingClash
+FastSharingClash 0.0.1
 用于朋友之间快速分享Clash配置文件
 
 
